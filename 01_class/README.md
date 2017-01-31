@@ -56,7 +56,7 @@ Three tags essentially make up and hold everything in an HTML webpage--`<head>`,
 </body>
 </html>
 ```
-* Note: `<!-- -->` represents a comment, which means the browser ignores it!
+* Note: `<!-- notes here -->` represents a comment, which means the browser ignores it!
 
 ## Head
 Your own head contains a very important organ, your brain. Think of the head tag as your brain; it contains information about language it speaks (`<html>`), what it calls itself (`<title>`), any realtives it has (links to other sheets CSS, JS).
