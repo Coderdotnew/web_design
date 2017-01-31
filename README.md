@@ -19,10 +19,10 @@ Be prepared to constantly receive errors messages. Failure in computer programmi
 ### 3. Embrace a culture of not knowing   
 The more you learn in this course, the more you will realize you don't know. Be ready to ask questions, be asked questions, oh, and *definitely* be ready to use our good friend Google.  
 
-![2](https://github.com/Coderdotnew/intro_web_apps_acp/blob/master/img/workaholics.gif)
+![2](https://github.com/Coderdotnew/web_design/blob/master/gifs/workaholics.gif)
 
 
 # Course Directory       
 | Lesson | Repository                                                                                                     |
 |--------|:---------------------------------------------------------------------------------------------------------------|
-| 01     | [Introduction to HTML](https://github.com/Coderdotnew/intro_web_apps_acp/tree/master/01_class)                 | 
+| 01     | [Introduction to HTML](https://github.com/Coderdotnew/web_design/tree/master/01_class)                 | 
