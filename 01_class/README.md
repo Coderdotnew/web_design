@@ -159,5 +159,5 @@ Tag | Function
 ![3](https://github.com/Coderdotnew/web_design/blob/master/gifs/cheatsheet.gif)
 
 # Resources
-[w3school Reference](http://www.w3schools.com/tags/)
+<a href="http://www.w3schools.com/tags/" target="_blank">w3schools References</a>
 * This is a great source to find a more extensive and complete list of tags and a lot of other helpful info on HTML, CSS, and many other languages!
