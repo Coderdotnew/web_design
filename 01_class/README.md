@@ -148,13 +148,13 @@ As mentioned before, `<p>` is the paragraph tag, used for smaller font in additi
 # HTML Cheat Sheet
 Tag | Function
 --- | --- 
-<!DOCTYPE html> | Declares the browser language as HTML
-<p>Paragraph text</p> | Paragraph
-<h1>...<h6> | Headers (biggest = 1, smallest = 6)
-<a href="website link here">Link display text</a> | Makes text clickable
-<img src="image link here"> | Displays an image on webpage
-<br> | Creates a break between text lines (like pressing enter)
-<hr> | Similar to  <br>, but inserts a horizontal line
+`<!DOCTYPE html>` | Declares the browser language as HTML
+`<p>Paragraph text</p>` | Paragraph
+`<h1>`...`<h6>` | Headers (biggest = 1, smallest = 6)
+`<a href="link address here">Link display text here</a>` | Makes text clickable
+`<img src="image link here">` | Displays an image on webpage
+`<br>` | Creates a break between text lines (like pressing enter)
+`<hr>` | Similar to `<br>`, but inserts a horizontal line
 
 ![3](https://github.com/Coderdotnew/web_design/blob/master/gifs/cheatsheet.gif)
 
