@@ -1,4 +1,4 @@
-![1](https://github.com/Coderdotnew/intro_web_apps_acp/blob/master/img/coder.gif)
+![1](https://github.com/Coderdotnew/web_design/blob/master/gifs/coder.gif)
 ---  
 # Introduction to Web Apps with Ruby
 - Each week you will meet with your instructor and a class of fellow soon-to-be software engineers to code the day away.
@@ -22,11 +22,7 @@ The more you learn in this course, the more you will realize you don't know. Be 
 ![2](https://github.com/Coderdotnew/intro_web_apps_acp/blob/master/img/workaholics.gif)
 
 
-# Navigation  
-#### Go to: [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_acp/tree/master/01_class)
-
-
 # Course Directory       
 | Lesson | Repository                                                                                                     |
 |--------|:---------------------------------------------------------------------------------------------------------------|
-| 01     | [Introduction to Ruby](https://github.com/Coderdotnew/intro_web_apps_acp/tree/master/01_class)                 | 
+| 01     | [Introduction to HTML](https://github.com/Coderdotnew/intro_web_apps_acp/tree/master/01_class)                 | 

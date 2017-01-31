@@ -1,6 +1,6 @@
 # Web Design with HTML, CSS, & JavaScript
 Web design is a field of computer programming that determnines how web pages look and what they say. This might includes different titles, images, paragraphs, links, tables, navigation bars, footers, and much more. *Every page you have ever viewed on the internet* was written with some format of HTML. If there were colors and different fonts used, then it definitely included some CSS. And if there were popup windows, motion, or maybe automatic scrolling, there was likely some JavaScript included as well!  
-![1](http://i.imgur.com/AEbIMlq.gif)
+![1](https://github.com/Coderdotnew/web_design/blob/master/gifs/internet.gif)
 
 ## What is HTML?
 HTML stands for **Hypertext Markup Language**. Every page you see on the web is built with HTML. 
@@ -20,7 +20,7 @@ CSS stands for **Cascading Style Sheets**.
 * CSS works directly with an HTML pages and changes the way information is presented.
 * When you think CSS, think *style*.
 
-![2](http://i.imgur.com/k9tJkrz.gif)
+![2](https://github.com/Coderdotnew/web_design/blob/master/gifs/style.gif)
 
 ## HTML Syntax
 Just like English, HTML reads top to bottom, left to right.
@@ -156,7 +156,7 @@ Tag | Function
 <br> | Creates a break between text lines (like pressing enter)
 <hr> | Similar to  <br>, but inserts a horizontal line
 
-![3](http://i.imgur.com/JsjOzfq.gif)
+![3](https://github.com/Coderdotnew/web_design/blob/master/gifs/cheatsheet.gif)
 
 # Resources
 http://www.w3schools.com/tags/
