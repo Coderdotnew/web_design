@@ -33,7 +33,7 @@ body {
   * This means that background of the body of the webpage will be blue!
 
 # Inheritence
-![1](http://i.imgur.com/qvhR67u.gif)  
+![1](https://github.com/Coderdotnew/web_design/blob/master/gifs/inerhit.gif)  
 Think about your parents' attributes, they may be tall or short, have straight or curly hair, perfect eyes or corrected vision, certain immunities, and unfortunately, possibly some diseases. You inherited these attributes and many more (or some combination) from your parents. Some might say you even inherited their sense of humor, cleanliness, level of intelligence, and other attributes.  
 Inheritence is an important concept when dealing with HTML and CSS. But first, we need to talk about nesting.
 * **Nesting** occurs in HTML when there is an element tag contained inside of a *parent* element tag. It looks like this: 
@@ -152,7 +152,7 @@ Lastly, let's add a customized background image to the body of our webpage. Firs
   * Note: You may want to adjust the settings to make sure the image dimensions are at least 1024x768 pixels)
 * Once you find your image, copy the **image address**, not the website address (the image address likely ends in .jpg or .png)
   * This example incudes an image of a desert sunset 
-  * <img src="http://images.summitpost.org/original/272289.jpg" height="250px" width="350px">  
+  * <img src="https://github.com/Coderdotnew/web_design/blob/master/gifs/sunset.jpg" height="250px" width="350px">  
 
 ```css
 body { 
@@ -181,5 +181,5 @@ body {
     text-align: center;
 }
 ```
-![2](http://i.imgur.com/8AjQxHj.gif)
+![2](https://github.com/Coderdotnew/web_design/blob/master/gifs/newgirl_clap.gif)
 ##### Getting there! Our webpage finally has some color and style, but there is a lot of work to be done! Next, we will be adjusting our measurement values to be more *responsive*.
