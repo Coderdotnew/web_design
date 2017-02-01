@@ -50,7 +50,7 @@ Inheritence is an important concept when dealing with HTML and CSS. But first, w
 
 # Basic CSS Styling
 Let's add some basic styling to our webpage. We have already given the `body` a background-color of blue. 
-* Certain color names can be used safely in a web browser. This means that web browsers only recognize certain color names, such as blue, red, silver, and many other.
+* Certain color names can be used safely in a web browser. This means that web browsers only recognize certain color names, such as blue, red, silver, and many others.
 * [Web Safe Color Names](http://www.w3schools.com/colors/colors_names.asp)
 
 ### Font Color
