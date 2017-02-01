@@ -32,7 +32,7 @@ body {
 * We are matching up the `body` selector, with the `<body>` (body) tag.
   * This means that background of the body of the webpage will be blue!
 
-# Inheritence
+## Inheritence
 ![1](https://github.com/Coderdotnew/web_design/blob/master/gifs/inerhit.gif)  
 Think about your parents' attributes, they may be tall or short, have straight or curly hair, perfect eyes or corrected vision, certain immunities, and unfortunately, possibly some diseases. You inherited these attributes and many more (or some combination) from your parents. Some might say you even inherited their sense of humor, cleanliness, level of intelligence, and other attributes.  
 Inheritence is an important concept when dealing with HTML and CSS. But first, we need to talk about nesting.
@@ -48,7 +48,7 @@ Inheritence is an important concept when dealing with HTML and CSS. But first, w
   * The `body` tag can be referred to as the *parent* tag and the `h1` tag is referred to as the *daughter* tag (yes, there can be grandparent and granddaughter tags). 
 
 
-# Basic CSS Styling
+## Basic CSS Styling
 Let's add some basic styling to our webpage. We have already given the `body` a background-color of blue. 
 * Certain color names can be used safely in a web browser. This means that web browsers only recognize certain color names, such as blue, red, silver, and many others.
 * [Web Safe Color Names](http://www.w3schools.com/colors/colors_names.asp)
@@ -84,7 +84,7 @@ p {
 ```
 * Note: This is *your* webpage, find colors that *you* like!
 
-#### Font Size
+### Font Size
 For now, we will be using an absolute measuring value known as **pixels** to size our fonts. 
 * A pixel is the basic unit of programmable measurement. Think of a pixel as each tiny dot of color combinations that make up your entire screen. Different combinations make up different colors, images, videos, and other graphics. 
 ```css
@@ -108,7 +108,7 @@ p {
 * You know when you zoom into a picture so much it becomes a whole bunch of squares? Each one of those squares is considered a pixel. This is the smallest piece of an image that your computer is able to display.
 * The smaller number of  pixels you set, the smaller the font will be.
 
-#### Font-Family
+### Font-Family
 Similar to writing up an essay using a Word document, font-families are available to change the style of your font (except here we can be more creative than we would be writing a research paper!)
 * Just like web safe color names, web  browsers only accept certain font-family names. 
   * [Web Safe Font-Family Names](http://www.w3schools.com/cssref/css_websafe_fonts.asp)
@@ -124,7 +124,7 @@ body {
   *  `"Times New Roman"` vs `Arial`
   *  [CSS Font References](http://www.w3schools.com/css/css_font.asp)
 
-#### Buttons
+### Buttons
 The standard button without CSS is straight out of a 1997 movie. 
 * Note: Buttons are referred to as a **form** element, meaning they can help submit data for a user. 
 * Form elements do not inherit font-families like other elements do.  
@@ -173,7 +173,7 @@ body {
 * Not bad! However, there may be some repetition if your background image is not the *exact same size* as the browser (which it probably is not). We will fix this soon!
 * Note: The copied image address must be inserted between quotation marks inside the parentheses in the `background` CSS property.
 
-#### Text-Align
+### Text-Align
 To finish this basic webpage, we want to center this text. In order to do this we must use the text-align property in the body selector to change the position of all the text on the page. The value of this property will be set to "center" (though you may prefer "right", or "left")
 ```css
 body { 
