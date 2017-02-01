@@ -138,8 +138,8 @@ As mentioned before, `<p>` is the paragraph tag, used for smaller font in additi
 <body>
 	<h1>Title here</h1>
 	<h3>"Tagline or quote here."</h3>
+  <p>Longer paragraphs or descriptions can be inserted inside paragraph tags. This might include a biography, website description, or additional information.</p>
 	<button>Learn more...</button>
-	<p>Longer paragraphs or descriptions can be inserted inside paragraph tags. This might include a biography, website description, or additional information.</p>
 </body>
 </html>
 ```
