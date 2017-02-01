@@ -159,15 +159,6 @@ Lastly, let's add a customized background image to the body of our webpage. Firs
 body { 
     background: url("http://images.summitpost.org/original/272289.jpg");
     font-family: "Arial";
-    background:
-}
-```
-* Also within the body selector, we are going to insert a background image. To do this, we must find a high resolution image so it will not look pixelated when it is stretched across the screen.
-* Because we are using an image URL instead of a color name we need to insert this URL in between parenthesis and quotes like so.
-```css
-body { 
-    font-family: sans-serif;
-    background: url("http://images.summitpost.org/original/272289.jpg");
 }
 ```
 * Not bad! However, there may be some repetition if your background image is not the *exact same size* as the browser (which it probably is not). We will fix this soon!
@@ -177,8 +168,8 @@ body {
 To finish this basic webpage, we want to center this text. In order to do this we must use the text-align property in the body selector to change the position of all the text on the page. The value of this property will be set to "center" (though you may prefer "right", or "left")
 ```css
 body { 
-    font-family: "Arial";
     background: url("http://images.summitpost.org/original/272289.jpg");
+    font-family: "Arial";
     text-align: center;
 }
 h1 {
