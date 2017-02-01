@@ -152,8 +152,8 @@ Lastly, let's add a customized background image to the body of our webpage. Firs
   * Note: You may want to adjust the settings to make sure the image dimensions are at least 1024x768 pixels)
 * Once you find your image, copy the **image address**, not the website address (the image address likely ends in .jpg or .png)
   * This example incudes an image of a desert sunset 
-  * ![2](http://images.summitpost.org/original/272289.jpg)  
-  
+  * <img src="http://images.summitpost.org/original/272289.jpg" height="250px" width="275px">  
+
 ```css
 body { 
     background: url("http://images.summitpost.org/original/272289.jpg");
