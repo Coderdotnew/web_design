@@ -137,6 +137,7 @@ Common Button Attributes:
 * **Background**
 * **Font color**
 * **Font size**
+
 ```css
 button {
     background: transparent;
@@ -176,9 +177,27 @@ body {
 To finish this basic webpage, we want to center this text. In order to do this we must use the text-align property in the body selector to change the position of all the text on the page. The value of this property will be set to "center" (though you may prefer "right", or "left")
 ```css
 body { 
-    font-family: sans-serif;
+    font-family: "Arial";
     background: url("http://images.summitpost.org/original/272289.jpg");
     text-align: center;
+}
+h1 {
+    color: Cyan;
+    font-size: 50px;
+}
+h3 {
+    color: Fuchsia;
+    font-size: 30px;
+}
+p {
+    color: White;
+    font-size: 20px;
+}
+button {
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    font-family: "Arial";
 }
 ```
 ![2](https://github.com/Coderdotnew/web_design/blob/master/gifs/newgirl_clap.gif)
