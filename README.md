@@ -1,6 +1,6 @@
 ![1](https://github.com/Coderdotnew/web_design/blob/master/gifs/coder.gif)
 ---  
-# Introduction to Web Apps with Ruby
+# Web Design with HTMl, CSS, and JavaScript
 - Each week you will meet with your instructor and a class of fellow soon-to-be software engineers to code the day away.
 - During each session, you will learn new syntax, rules, tips, tricks, and nuances about the topic we are currently reviewing. 
 - The majority of the session is devoted to coding. 
@@ -26,3 +26,4 @@ The more you learn in this course, the more you will realize you don't know. Be 
 | Lesson | Repository                                                                                                     |
 |--------|:---------------------------------------------------------------------------------------------------------------|
 | 01     | [Introduction to HTML](https://github.com/Coderdotnew/web_design/tree/master/01_class)                 | 
+| 02     | [Introduction to CSS](https://github.com/Coderdotnew/web_design/tree/master/02_class)                 | 
