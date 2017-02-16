@@ -105,7 +105,7 @@ I bet you can fill in images 3, 4, 5, and 6.
 ## Adding links
 I want to turn each div into a clickable image. This means there must be a link attribute surrounding each div. 
 * Here is what that looks like on 1 div:
-```
+```HTML
 <a name="info-page"><div class="info-page"></a>
     <div class="pic-table">
         <a href="https://www.lacity.org/" target="_blank">
@@ -120,6 +120,7 @@ I want to turn each div into a clickable image. This means there must be a link 
 </div>
 
 ```
+* Note: `target="_blank"` opens a link in a new tab!
 Just about done! Use the completed code below to fix your page up and make sure to add links and image backgrounds to each of the divs.
 
 ```HTML
