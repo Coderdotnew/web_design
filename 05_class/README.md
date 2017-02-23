@@ -1,4 +1,4 @@
-# # Animations
+# Animations
 CSS3 animations allows animation of most HTML elements without using JavaScript or Flash!
 
 `@keyframes` is the primary tool we will use for CSS3 animations. Think of `@keyframes` as a collection of different animations that can be called on an HTML element. Let's add `@keyframes` to a button.
@@ -7,10 +7,10 @@ CSS3 animations allows animation of most HTML elements without using JavaScript 
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<button class="my-button">My Button!</a>
+  <button class="my-button">My Button!</a>
 </body>
 </html>
 ```
@@ -54,10 +54,10 @@ Let's take a look at a slightly more complex animation:
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<button class="my-button">My Button!</a>
+  <button class="my-button">My Button!</a>
 </body>
 </html>
 ```
@@ -85,6 +85,7 @@ button {
 ```
 This time, we've named our animation `my-button` and given it instructions where to move and what color to be at various points during the animation process.
 
+W3Schools has some great [examples](https://www.w3schools.com/css/css3_animations.asp).
 ## Hover.css
 There are tons of libraries we can use code from. Hover.css is a really cool library with lots of button animation options.  
 
@@ -97,11 +98,11 @@ Let's do the first animation, `hvr-grow` together.
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" href="style.css">
-	<link href="css/hover.css" rel="stylesheet" media="all">
+  <link rel="stylesheet" href="style.css">
+  <link href="css/hover.css" rel="stylesheet" media="all">
 </head>
 <body>
-	<button class="button hvr-grow">My Button!</a>
+  <button class="button hvr-grow">My Button!</a>
 </body>
 </html>
 ```
