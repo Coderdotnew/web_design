@@ -25,5 +25,9 @@ The more you learn in this course, the more you will realize you don't know. Be 
 # Course Directory       
 | Lesson | Repository                                                                                                     |
 |--------|:---------------------------------------------------------------------------------------------------------------|
-| 01     | [Introduction to HTML](https://github.com/Coderdotnew/web_design/tree/master/01_class)                 | 
-| 02     | [Introduction to CSS](https://github.com/Coderdotnew/web_design/tree/master/02_class)                 | 
+| 01     | [Introduction to HTML](https://github.com/Coderdotnew/web_design/tree/master/01_class)                         | 
+| 02     | [Introduction to CSS](https://github.com/Coderdotnew/web_design/tree/master/02_class)                          | 
+| 03     | [Advanced HTML](https://github.com/Coderdotnew/web_design/tree/master/03_class)                                | 
+| 04     | [Advanced CSS](https://github.com/Coderdotnew/web_design/tree/master/04_class)                                 | 
+| 05     | [CSS Animations](https://github.com/Coderdotnew/web_design/tree/master/05_class)                               | 
+| 06     | [jQuery](https://github.com/Coderdotnew/web_design/tree/master/06_class)                                       | 
