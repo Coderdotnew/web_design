@@ -181,3 +181,5 @@ $(document).ready(function(){
 
 # jQuery Plugins
 jQuery plugins are typically pre-written jQuery functions that can add awesome features to your webpage. Plugins usually have pretty complex JavaScript attached to them so the good news is as the developer, you simply need to copy and paste the JavaScript and then customize the jQuery function calls to your code!
+
+![Clone this template](https://github.com/Coderdotnew/jquery_webpage) to see how plugins work for yourself!
