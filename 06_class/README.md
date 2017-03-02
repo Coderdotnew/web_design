@@ -3,7 +3,7 @@ JavaScript is the programming language of HTML and the Web. It allows you to ani
 
 If you've ever been impressed by a loading screen, auto-scrolling, elements popping up and hiding, or even snowflakes falling on a screen, we have JavaScript to thank for that. 
 
-![1](http://i.giphy.com/aTSSZiC1Y1SBq.gif)
+![1](https://github.com/Coderdotnew/web_design/blob/master/gifs/thankyou.gif)
 Thank you JavaScript!
 
 # jQuery
