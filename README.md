@@ -1,3 +1,11 @@
+```
+wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+
+heroku create
+
+git push heroku master
+```
+
 ![1](https://github.com/Coderdotnew/web_design/blob/master/gifs/coder.gif)
 ---  
 # Web Design with HTMl, CSS, and JavaScript
