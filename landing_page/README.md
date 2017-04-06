@@ -21,10 +21,10 @@ Think of a company you would like to see exist! It can be anything or do anythin
 - And more...
 
 Here are a few famous examples of landing pages
-Lyft: ![1](http://i.imgur.com/EBNXjCz.png)  
+Lyft: ![1](https://github.com/Coderdotnew/web_design/blob/master/gifs/lyft.png)  
 ***
-Wistia: ![2](http://i.imgur.com/I5d4Bvm.png)  
+Wistia: ![2](https://github.com/Coderdotnew/web_design/blob/master/gifs/wistia.png)  
 ***
-Trulia: ![3](http://i.imgur.com/0knLL98.png)  
+Trulia: ![3](https://github.com/Coderdotnew/web_design/blob/master/gifs/trulia.png)  
 ***
-Codecademy: ![4](http://i.imgur.com/yXcOWSZ.png)
+Codecademy: ![4](https://github.com/Coderdotnew/web_design/blob/master/gifs/codecademy.png)
