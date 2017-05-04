@@ -1,12 +1,23 @@
+## To initialize a new application on Heroku enter the following commands in your Terminal:
 ```
 wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
-
 heroku create
-
 git push heroku master
 ```
 
-![1](https://github.com/Coderdotnew/web_design/blob/master/gifs/coder.gif)
+## Whenever you make a change to your application codebase in Cloud9, enter the following commands in your Terminal:
+```
+git status 
+git add .
+git commit -m "any message can go here"
+git push
+git push heroku master
+```
+
+## To rename your Heroku app from the Cloud9 Terminal:
+```
+heroku rename new-name-app
+```
 ---  
 # Web Design with HTMl, CSS, and JavaScript
 - Each week you will meet with your instructor and a class of fellow soon-to-be software engineers to code the day away.
